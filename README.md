@@ -7,4 +7,6 @@ Drip Dopdop Coffee is a web-based coffee ordering platform developed using the L
 - Dashboard: Displays coffee options and order status.
 - Wishlist: Users can save their favorite coffee selections for future orders.
 
-![image]()
+![image](picture/dashboard.JPG)
+![image](picture/welcome.JPG)
+![image](picture/sign_up.JPG)
