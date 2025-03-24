@@ -9,4 +9,4 @@ Drip Dopdop Coffee is a web-based coffee ordering platform developed using the L
 
 ![image](picture/dashboard.JPG)
 ![image](picture/welcome.JPG)
-![image](picture/sign_up.JPG)
+![image](picture/signup.JPG)
